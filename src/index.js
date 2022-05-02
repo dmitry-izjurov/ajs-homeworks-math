@@ -1,4 +1,4 @@
 import './css/style.css';
 
-import './js/Math';
+import './js/MathCharacter';
 import './js/Daemon';

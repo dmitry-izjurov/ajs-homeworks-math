@@ -1,6 +1,6 @@
-import _Math from './Math';
+import MathCharacter from './MathCharacter';
 
-export default class Magician extends _Math {
+export default class Magician extends MathCharacter {
   constructor(attack, stoned) {
     super(attack, stoned);
     this.health = 100;
